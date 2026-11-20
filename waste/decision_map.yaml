@@ -1,0 +1,13 @@
+# Map class names (folder names) to either "recycle" or "waste"
+# Edit as needed per your policy.
+Battery: recycle
+Keyboard: recycle
+Microwave: waste
+Mobile: recycle
+Mouse: recycle
+PCB: waste
+Player: recycle
+Printer: recycle
+Television: waste
+Washing Machine: recycle
+
